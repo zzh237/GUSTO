@@ -1,0 +1,154 @@
+,feature,value
+0,lead_signup_size,0.0797
+1,hi_status_unknown,0.0416
+2,viewed_pricing,0.0278
+3,area_code_703.0,0.0232
+4,hi_status_not_interested,0.022
+5,states_[CA],0.0207
+6,area_code_other,0.0202
+7,hi_status_interested_in_group_hi,0.0189
+8,job_role_unknown,0.0184
+9,viewed_payroll_overview,0.0173
+10,states_[MI],0.0169
+11,states_[TX],0.0158
+12,job_role_engineering,0.0155
+13,job_seniority_unknown,0.0154
+14,viewed_hp,0.0153
+15,subIndustry_Internet Software & Services,0.0153
+16,marketing_program_Direct,0.0148
+17,industryGroup_Independent Power and Renewable Electricity Producers,0.0143
+18,sector_Utilities,0.0141
+19,states_other,0.0137
+20,hi_status_has_group_hi,0.0131
+21,marketing_medium_Direct,0.013
+22,job_seniority_executive,0.0129
+23,subIndustry_Renewable Energy,0.0126
+24,states_[VA],0.012
+25,states_[NJ],0.0116
+26,job_role_founder,0.0111
+27,job_seniority_manager,0.0104
+28,marketing_program_SEO,0.0103
+29,marketing_medium_SEO,0.0102
+30,sector_Consumer Discretionary,0.0097
+31,subIndustry_Internet,0.0096
+32,states_[NY],0.0096
+33,industry_Internet Software & Services,0.009
+34,job_role_operations,0.0089
+35,states_[NC],0.0088
+36,industryGroup_Software & Services,0.0088
+37,area_code_415.0,0.0088
+38,marketing_channel_Organic,0.0084
+39,states_[GA],0.0083
+40,area_code_512.0,0.0082
+41,job_role_ceo,0.0081
+42,marketing_program_Search - Brand,0.0077
+43,subIndustry_Consulting,0.0076
+44,area_code_is_real_1.0,0.0075
+45,marketing_medium_Other,0.0073
+46,sector_Information Technology,0.0069
+47,states_[MA],0.0068
+48,sector_Industrials,0.0068
+49,marketing_program_Inbound Referral,0.0068
+50,job_role_president,0.0067
+51,job_role_owner,0.0065
+52,industry_Professional Services,0.0065
+53,subIndustry_other,0.006
+54,area_code_is_real_unknown,0.006
+55,marketing_medium_Search,0.0058
+56,area_code_unknown,0.0058
+57,job_seniority_director,0.0056
+58,industryGroup_Commercial & Professional Services,0.0056
+59,marketing_channel_Paid,0.0053
+60,industry_other,0.0052
+61,subIndustry_unknown,0.005
+62,industry_Renewable Electricity,0.0049
+63,marketing_program_Search - Non Brand,0.0048
+64,job_role_product,0.0047
+65,states_[WA],0.0046
+66,area_code_646.0,0.0045
+67,industry_Education Services,0.0044
+68,states_[FL],0.0043
+69,area_code_650.0,0.0043
+70,industryGroup_Diversified Consumer Services,0.0042
+71,subIndustry_Education,0.0041
+72,industryGroup_other,0.0039
+73,industryGroup_Consumer Services,0.0039
+74,area_code_510.0,0.0038
+75,area_code_408.0,0.0038
+76,marketing_medium_Customer Referral,0.0036
+77,sector_Health Care,0.0035
+78,marketing_program_Affiliates,0.0035
+79,area_code_212.0,0.0034
+80,industry_Consumer Discretionary,0.0033
+81,subIndustry_Specialized Consumer Services,0.0032
+82,states_[CO],0.0032
+83,industry_Diversified Consumer Services,0.0032
+84,industryGroup_Consumer Discretionary,0.0032
+85,sector_Consumer Staples,0.0031
+86,job_role_other,0.0031
+87,job_role_finance,0.0031
+88,industryGroup_Consumer Durables & Apparel,0.0031
+89,subIndustry_Consumer Discretionary,0.003
+90,states_[MO],0.003
+91,job_role_sales,0.0028
+92,industry_unknown,0.0028
+93,has_referral_token,0.0028
+94,area_code_888.0,0.0028
+95,area_code_617.0,0.0028
+96,states_[IL],0.0027
+97,sector_Financials,0.0027
+98,marketing_program_Customer Referral,0.0027
+99,area_code_206.0,0.0027
+100,industry_Media,0.0026
+101,"industryGroup_Food, Beverage & Tobacco",0.0026
+102,states_[OR],0.0025
+103,marketing_channel_Customer Referral,0.0025
+104,industryGroup_Media,0.0025
+105,industryGroup_Retailing,0.0024
+106,job_role_marketing,0.0023
+107,job_role_human_resources,0.0023
+108,area_code_503.0,0.0023
+109,states_[OH],0.0022
+110,marketing_medium_Affiliate,0.0022
+111,industry_Health Care Providers & Services,0.0022
+112,industry_Food Products,0.0021
+113,states_[AZ],0.002
+114,marketing_program_BD,0.002
+115,marketing_medium_BD,0.002
+116,industryGroup_Health Care Equipment & Services,0.002
+117,area_code_310.0,0.002
+118,marketing_channel_BD,0.0018
+119,industry_Consumer Staples,0.0018
+120,subIndustry_Health & Wellness,0.0017
+121,subIndustry_Consumer Staples,0.0017
+122,industryGroup_Consumer Staples,0.0017
+123,area_code_917.0,0.0017
+124,states_[MD],0.0016
+125,subIndustry_Movies & Entertainment,0.0015
+126,subIndustry_Food,0.0014
+127,states_[PA],0.0013
+128,states_[DC],0.0013
+129,area_code_is_real_0.0,0.0011
+130,subIndustry_Health Care,0.001
+131,"industry_Hotels, Restaurants & Leisure",0.001
+132,industry_Commercial Services & Supplies,0.001
+133,area_code_303.0,0.0009
+134,subIndustry_Financial Services,0.0008
+135,industry_Diversified Financial Services,0.0008
+136,industryGroup_Diversified Financial Services,0.0008
+137,area_code_949.0,0.0008
+138,area_code_720.0,0.0008
+139,subIndustry_Restaurants,0.0007
+140,subIndustry_Diversified Support Services,0.0007
+141,marketing_program_Organic Other,0.0007
+142,area_code_202.0,0.0007
+143,subIndustry_Publishing,0.0006
+144,states_[UT],0.0006
+145,states_[TN],0.0006
+146,marketing_program_other,0.0006
+147,subIndustry_Real Estate,0.0004
+148,sector_other,0.0004
+149,marketing_medium_other,0.0004
+150,industry_Real Estate,0.0004
+151,industryGroup_Capital Goods,0.0004
+152,industryGroup_Real Estate,0.0003

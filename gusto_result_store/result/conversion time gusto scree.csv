@@ -1,0 +1,128 @@
+,feature,value
+0,number_of_employees,0.1109
+1,job_seniority_executive,0.057
+2,lead_signup_size,0.0445
+3,plan cost,0.0409
+4,viewed_payroll_overview,0.0249
+5,viewed_pricing,0.0222
+6,viewed_hp,0.0184
+7,states_[CA],0.0172
+8,job_seniority_manager,0.0172
+9,area_code_512.0,0.0161
+10,subIndustry_Internet Software & Services,0.016
+11,states_other,0.0143
+12,states_[NY],0.0138
+13,hi_status_interested_in_group_hi,0.0137
+14,job_role_founder,0.0135
+15,marketing_medium_Direct,0.0126
+16,area_code_other,0.0122
+17,hi_status_not_interested,0.0118
+18,job_seniority_unknown,0.0117
+19,job_role_operations,0.0117
+20,marketing_program_Direct,0.0116
+21,states_[NJ],0.0112
+22,job_role_unknown,0.0112
+23,states_[TX],0.0111
+24,states_[NC],0.0109
+25,subIndustry_Consulting,0.0108
+26,job_role_engineering,0.0108
+27,job_role_ceo,0.0107
+28,marketing_medium_SEO,0.0106
+29,marketing_program_SEO,0.0105
+30,industryGroup_other,0.0104
+31,states_[GA],0.0103
+32,job_role_owner,0.0101
+33,job_seniority_director,0.0096
+34,hi_status_has_group_hi,0.0095
+35,marketing_program_Search - Brand,0.0092
+36,area_code_415.0,0.0084
+37,subIndustry_Education,0.0082
+38,industry_Professional Services,0.0082
+39,states_[VA],0.0081
+40,job_role_other,0.0081
+41,marketing_channel_Organic,0.008
+42,job_role_finance,0.0079
+43,industry_Education Services,0.0078
+44,states_[MA],0.0075
+45,subIndustry_Internet,0.0063
+46,states_[FL],0.0063
+47,subIndustry_Specialized Consumer Services,0.0062
+48,industryGroup_Software & Services,0.0062
+49,sector_Consumer Discretionary,0.0061
+50,area_code_617.0,0.006
+51,subIndustry_unknown,0.0058
+52,area_code_650.0,0.0057
+53,industry_Internet Software & Services,0.0055
+54,sector_Industrials,0.0054
+55,marketing_medium_Search,0.0052
+56,subIndustry_Health Care,0.0051
+57,sector_Financials,0.005
+58,marketing_channel_Paid,0.005
+59,marketing_program_Search - Non Brand,0.0047
+60,industry_unknown,0.0047
+61,states_[WA],0.0046
+62,industryGroup_Retailing,0.0045
+63,area_code_503.0,0.0045
+64,industryGroup_Commercial & Professional Services,0.0044
+65,industry_Diversified Consumer Services,0.0043
+66,has_referral_token,0.0042
+67,industry_other,0.0041
+68,sector_Information Technology,0.004
+69,marketing_medium_Other,0.004
+70,area_code_408.0,0.004
+71,states_[PA],0.0039
+72,states_[CO],0.0039
+73,marketing_program_Inbound Referral,0.0039
+74,industryGroup_Diversified Consumer Services,0.0039
+75,marketing_program_Customer Referral,0.0037
+76,job_role_president,0.0037
+77,marketing_medium_Customer Referral,0.0036
+78,marketing_channel_Customer Referral,0.0036
+79,subIndustry_other,0.0034
+80,marketing_medium_Affiliate,0.0034
+81,area_code_212.0,0.0034
+82,industryGroup_Consumer Services,0.0033
+83,industryGroup_Consumer Discretionary,0.0032
+84,area_code_310.0,0.0032
+85,subIndustry_Consumer Discretionary,0.0031
+86,states_[IL],0.003
+87,marketing_medium_BD,0.003
+88,marketing_program_Affiliates,0.0029
+89,"industryGroup_Food, Beverage & Tobacco",0.0029
+90,states_[AZ],0.0027
+91,marketing_channel_BD,0.0027
+92,industry_Food Products,0.0027
+93,industry_Consumer Discretionary,0.0027
+94,area_code_unknown,0.0027
+95,states_[MD],0.0025
+96,area_code_is_real_1.0,0.0025
+97,job_role_sales,0.0023
+98,subIndustry_Health & Wellness,0.0022
+99,industry_Media,0.0021
+100,subIndustry_Renewable Energy,0.0019
+101,states_[OH],0.0019
+102,sector_Health Care,0.0019
+103,sector_Consumer Staples,0.0019
+104,states_[OR],0.0018
+105,marketing_program_BD,0.0018
+106,"industry_Hotels, Restaurants & Leisure",0.0018
+107,marketing_program_other,0.0017
+108,industryGroup_Media,0.0017
+109,industryGroup_Consumer Durables & Apparel,0.0017
+110,industryGroup_Independent Power and Renewable Electricity Producers,0.0016
+111,industryGroup_Consumer Staples,0.0016
+112,area_code_is_real_unknown,0.0016
+113,industry_Health Care Providers & Services,0.0015
+114,subIndustry_Food,0.0013
+115,industry_Consumer Staples,0.0013
+116,industryGroup_Health Care Equipment & Services,0.0013
+117,area_code_206.0,0.0012
+118,subIndustry_Consumer Staples,0.0011
+119,sector_Utilities,0.0011
+120,industry_Renewable Electricity,0.001
+121,area_code_917.0,0.001
+122,marketing_medium_other,0.0008
+123,industry_Commercial Services & Supplies,0.0007
+124,area_code_720.0,0.0006
+125,sector_other,0.0004
+126,area_code_is_real_other,0.0004

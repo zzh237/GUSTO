@@ -1,0 +1,193 @@
+,feature,value
+0,hi_status_unknown,0.1
+1,lead_signup_size,0.0992
+2,hi_status_not_interested,0.0363
+3,viewed_pricing,0.023
+4,hi_status_interested_in_group_hi,0.0192
+5,viewed_hp,0.0186
+6,viewed_payroll_overview,0.0179
+7,states_[CA],0.0168
+8,area_code_other,0.0166
+9,area_code_is_real_1.0,0.0125
+10,job_seniority_executive,0.0123
+11,area_code_is_real_unknown,0.0122
+12,job_role_unknown,0.0118
+13,hi_status_has_group_hi,0.0117
+14,job_seniority_unknown,0.0113
+15,area_code_unknown,0.0106
+16,states_[NY],0.0101
+17,states_other,0.0097
+18,marketing_medium_Other,0.0088
+19,subIndustry_Internet Software & Services,0.0086
+20,states_[TX],0.0085
+21,marketing_medium_Direct,0.0081
+22,marketing_program_Inbound Referral,0.0079
+23,marketing_program_Direct,0.0079
+24,subIndustry_Internet,0.0076
+25,marketing_medium_SEO,0.0074
+26,area_code_415.0,0.0072
+27,states_[MA],0.007
+28,marketing_program_SEO,0.007
+29,job_role_founder,0.007
+30,job_role_operations,0.0069
+31,job_role_ceo,0.0067
+32,subIndustry_Consulting,0.0065
+33,states_[FL],0.0065
+34,industry_Internet Software & Services,0.0065
+35,sector_Consumer Discretionary,0.0063
+36,area_code_is_real_0.0,0.0063
+37,states_[WA],0.0062
+38,industry_Professional Services,0.0062
+39,marketing_channel_Organic,0.0061
+40,sector_Information Technology,0.006
+41,subIndustry_other,0.0058
+42,sector_Industrials,0.0058
+43,marketing_program_Search - Non Brand,0.0058
+44,marketing_medium_Search,0.0058
+45,marketing_channel_Paid,0.0057
+46,job_seniority_manager,0.0057
+47,industryGroup_Software & Services,0.0057
+48,industryGroup_Commercial & Professional Services,0.0057
+49,subIndustry_unknown,0.0056
+50,job_role_sales,0.0052
+51,job_seniority_director,0.0051
+52,job_role_owner,0.0051
+53,job_role_finance,0.0051
+54,area_code_650.0,0.005
+55,states_[IL],0.0049
+56,states_[GA],0.0048
+57,states_[CO],0.0048
+58,states_[OR],0.0044
+59,states_[OH],0.0043
+60,job_role_marketing,0.0043
+61,area_code_917.0,0.0043
+62,marketing_program_Search - Brand,0.0041
+63,job_role_product,0.004
+64,job_role_engineering,0.004
+65,industryGroup_Consumer Services,0.004
+66,states_[NJ],0.0039
+67,states_[AZ],0.0039
+68,marketing_program_Customer Referral,0.0039
+69,industry_other,0.0038
+70,area_code_646.0,0.0037
+71,area_code_408.0,0.0037
+72,industryGroup_Health Care Equipment & Services,0.0036
+73,area_code_617.0,0.0036
+74,states_[NC],0.0035
+75,sector_Health Care,0.0035
+76,states_[MD],0.0034
+77,job_role_other,0.0034
+78,states_[VA],0.0033
+79,sector_Consumer Staples,0.0033
+80,marketing_channel_Customer Referral,0.0033
+81,states_[MO],0.0032
+82,subIndustry_Health & Wellness,0.0031
+83,marketing_medium_Customer Referral,0.0031
+84,industry_Health Care Providers & Services,0.0031
+85,area_code_310.0,0.0031
+86,states_[NV],0.0029
+87,area_code_512.0,0.0029
+88,area_code_212.0,0.0029
+89,subIndustry_Consumer Discretionary,0.0028
+90,industry_Media,0.0028
+91,industry_Diversified Consumer Services,0.0028
+92,industryGroup_Consumer Discretionary,0.0028
+93,subIndustry_Specialized Consumer Services,0.0027
+94,states_[PA],0.0027
+95,sector_Financials,0.0027
+96,has_referral_token,0.0027
+97,area_code_818.0,0.0027
+98,subIndustry_Consumer Staples,0.0026
+99,states_[MI],0.0026
+100,job_role_president,0.0026
+101,industry_unknown,0.0026
+102,industry_Consumer Staples,0.0026
+103,industry_Consumer Discretionary,0.0026
+104,industryGroup_Consumer Staples,0.0026
+105,area_code_206.0,0.0026
+106,area_code_202.0,0.0026
+107,area_code_949.0,0.0025
+108,area_code_888.0,0.0025
+109,area_code_510.0,0.0025
+110,subIndustry_Health Care,0.0024
+111,states_[TN],0.0024
+112,industryGroup_Retailing,0.0024
+113,industryGroup_Media,0.0024
+114,industryGroup_Diversified Consumer Services,0.0024
+115,area_code_703.0,0.0024
+116,area_code_503.0,0.0024
+117,area_code_404.0,0.0024
+118,states_[SC],0.0023
+119,states_[CT],0.0023
+120,marketing_channel_BD,0.0023
+121,industry_Education Services,0.0023
+122,industry_Commercial Services & Supplies,0.0023
+123,industryGroup_Consumer Durables & Apparel,0.0023
+124,area_code_720.0,0.0023
+125,subIndustry_Education,0.0022
+126,states_[DE],0.0022
+127,marketing_medium_BD,0.0022
+128,"industry_Hotels, Restaurants & Leisure",0.0022
+129,area_code_858.0,0.0022
+130,states_[MN],0.0021
+131,marketing_program_BD,0.0021
+132,marketing_program_Affiliates,0.0021
+133,industryGroup_other,0.0021
+134,area_code_312.0,0.0021
+135,states_[IN],0.0019
+136,sector_Utilities,0.0019
+137,"industryGroup_Pharmaceuticals, Biotechnology & Life Sciences",0.0019
+138,"industryGroup_Food, Beverage & Tobacco",0.0019
+139,area_code_425.0,0.0019
+140,area_code_303.0,0.0019
+141,subIndustry_Movies & Entertainment,0.0018
+142,marketing_medium_Affiliate,0.0018
+143,job_role_human_resources,0.0018
+144,industry_Renewable Electricity,0.0018
+145,industry_Food Products,0.0018
+146,area_code_407.0,0.0018
+147,subIndustry_Diversified Support Services,0.0017
+148,states_[DC],0.0017
+149,industryGroup_Diversified Financial Services,0.0017
+150,area_code_347.0,0.0017
+151,industry_Diversified Financial Services,0.0016
+152,industryGroup_Independent Power and Renewable Electricity Producers,0.0016
+153,area_code_800.0,0.0016
+154,subIndustry_Publishing,0.0015
+155,industryGroup_Capital Goods,0.0015
+156,subIndustry_Restaurants,0.0014
+157,subIndustry_Renewable Energy,0.0014
+158,subIndustry_Food,0.0014
+159,subIndustry_Financial Services,0.0014
+160,states_[UT],0.0014
+161,area_code_323.0,0.0014
+162,subIndustry_Advertising,0.0013
+163,states_[WV],0.0013
+164,states_[AL],0.0013
+165,marketing_program_Search Experiments,0.0013
+166,area_code_801.0,0.0013
+167,states_[WI],0.0012
+168,industry_Pharmaceuticals,0.0012
+169,job_role_legal,0.0011
+170,subIndustry_Real Estate,0.001
+171,subIndustry_Pharmaceuticals,0.001
+172,industry_Real Estate,0.001
+173,industryGroup_Real Estate,0.001
+174,area_code_805.0,0.001
+175,area_code_305.0,0.001
+176,sector_other,0.0009
+177,marketing_program_Organic Other,0.0009
+178,industry_Insurance,0.0009
+179,marketing_program_other,0.0008
+180,industryGroup_Insurance,0.0008
+181,subIndustry_Insurance,0.0007
+182,industry_Capital Markets,0.0007
+183,industryGroup_Diversified Financials,0.0007
+184,subIndustry_Automotive,0.0006
+185,marketing_program_Review/Native,0.0006
+186,marketing_medium_Social,0.0006
+187,marketing_medium_Review,0.0006
+188,industry_Automotive,0.0006
+189,area_code_847.0,0.0006
+190,industryGroup_Automobiles & Components,0.0004
+191,marketing_medium_other,0.0003

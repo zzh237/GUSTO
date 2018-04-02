@@ -1,0 +1,110 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+## R Markdown
+```{r}
+c <- matrix(0, ncol = 4, nrow = 5005)
+c[,1]<-"Control"
+c[1:3654, 2]<-1
+c[1:2856, 3]<-1
+c[1:2055, 4]<-1
+
+```
+
+```{r}
+a <- matrix(0, ncol = 4, nrow = 5012)
+a[,1]<-"A"
+a[1:3838, 2]<-1
+a[1:3073, 3]<-1
+a[1:2255, 4]<-1
+
+```
+```{r}
+b <- matrix(0, ncol = 4, nrow = 5025)
+b[,1]<-"B"
+b[1:3987, 2]<-1
+b[1:2974, 3]<-1
+b[1:2070, 4]<-1
+
+```
+
+
+```{r}
+
+ca<-rbind(c,a)
+ca <- as.table(ca)
+rownames(ca) <- 1:nrow(ca)
+colnames(ca) <- c("Flow", "Account", "Employee", "Payroll")
+ca<-as.data.frame.matrix(ca)
+ca
+
+```
+```{r}
+
+cb<-rbind(c,b)
+cb <- as.table(cb)
+rownames(cb) <- 1:nrow(cb)
+colnames(cb) <- c("Flow", "Account", "Employee", "Payroll")
+cb<-as.data.frame.matrix(cb)
+cb
+```
+```{r}
+
+ab<-rbind(a,b)
+ab <- as.table(ab)
+rownames(ab) <- 1:nrow(ab)
+colnames(ab) <- c("Flow", "Account", "Employee", "Payroll")
+ab<-as.data.frame.matrix(ab)
+ab
+
+```
+```{r}
+chisq.test(table(ca$Flow, ca$Account))
+chisq.test(table(cb$Flow, cb$Account))
+chisq.test(table(ab$Flow, ab$Account))
+```
+
+
+```{r}
+
+e_ca <- subset(ca, Account == 1)
+e_cb <- subset(cb, Account == 1)
+e_ab <- subset(ab, Account == 1)
+
+chisq.test(table(e_ca$Flow, e_ca$Employee))
+chisq.test(table(e_cb$Flow, e_cb$Employee))
+chisq.test(table(e_ab$Flow, e_ab$Employee))
+
+
+
+```
+
+```{r}
+
+
+```
+
+
+```{r}
+p_ca <- subset(ca, Employee == 1)
+p_cb <- subset(cb, Employee == 1)
+p_ab <- subset(ab, Employee == 1)
+
+
+chisq.test(table(p_ca$Flow, p_ca$Payroll))
+chisq.test(table(p_cb$Flow, p_cb$Payroll))
+chisq.test(table(p_ab$Flow, p_ab$Payroll))
+```
+
+
+```{r}
+
+
+```
+
+
+
+
+## Including Plots
